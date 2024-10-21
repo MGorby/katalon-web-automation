@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login on https://www.saucedemo.com/ site</description>
+   <name>Login using empty username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f97c8323-4aaa-4626-af66-793332fd6a60</testCaseGuid>
+</TestCaseEntity>
